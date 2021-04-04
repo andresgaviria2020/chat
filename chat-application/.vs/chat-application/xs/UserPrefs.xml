@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{3D6123D9-0B14-4311-9A43-9F26293DAB79}|Default">
+  <MonoDevelop.Ide.ItemProperties.chat-application PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="chat-application/Controllers/MessageController.cs">
+    <Files>
+      <File FileName="chat-application/Startup.cs" Line="38" Column="1" />
+      <File FileName="chat-application/Controllers/ChatHub.cs" Line="38" Column="34" />
+      <File FileName="chat-application/Model.cs" Line="5" Column="29" />
+      <File FileName="chat-application/WeatherForecast.cs" Line="1" Column="1" />
+      <File FileName="chat-application/Program.cs" Line="16" Column="1" />
+      <File FileName="chat-application/Controllers/MessageController.cs" Line="36" Column="2" />
+      <File FileName="chat-application/UserDetail.cs" Line="11" Column="1" />
+      <File FileName="chat-application/MessageDetail.cs" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="chat-application" expanded="True">
+            <Node name="chat-application" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="MessageController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/andresgaviria/Documents/Chat/chat-application/chat-application/Controllers/ChatHub.cs" relfile="chat-application/Controllers/ChatHub.cs" line="61" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

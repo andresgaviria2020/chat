@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lqc8t7Izvmd9TS1DjqvamcNvFln5oHnqHpy7dkHvaMvOQr1VwsffhVVjQNABPD/z2bWWbJXzyVNJKkGpo/l/Zw==",
+  "success": true,
+  "projectFilePath": "/Users/andresgaviria/Documents/Chat/chat-application/chat-application/chat-application.csproj",
+  "expectedPackageFiles": [
+    "/Users/andresgaviria/.nuget/packages/microsoft.aspnet.signalr/2.4.1/microsoft.aspnet.signalr.2.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}
